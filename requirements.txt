@@ -1,0 +1,8 @@
+streamlit
+google-cloud-aiplatform
+google-cloud-logging
+pandas
+google-generativeai
+python-dotenv
+langchain-google-vertexai 
+langchain
